@@ -1,0 +1,6 @@
+{
+  "name": "AI Science Explorer",
+  "description": "An interactive, AI-powered science learning assistant for Grades 5-8 students. Discover scientific concepts, ask questions, perform virtual experiments, play quizzes, and learn science engagingly.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
